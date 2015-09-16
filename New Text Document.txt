@@ -1,4 +1,8 @@
 aaa
 bbb
 ccc
+<<<<<<< HEAD
 branch1 here
+=======
+Test branch 2 here
+>>>>>>> master
